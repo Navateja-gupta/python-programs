@@ -1,0 +1,8 @@
+1.List is Ordered collection of items where as Set is Unordered collection of items.
+
+2.Lists is Mutable, where as sets are Mutable.
+
+3.Items in list can be replaced or changed where as items in Set cannot be changed or replaced.
+
+Example:  list = [1,2,3,4,5,6,7]
+          Set = {1, 2, 3, 4, 5} 

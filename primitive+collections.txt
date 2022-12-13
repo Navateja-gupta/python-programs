@@ -1,0 +1,12 @@
+PRIMITIVES:
+           1.Interger
+           2.Float
+           3.String
+           4.Boolean
+           5.Complex
+
+COLLECTIONS:
+           1.List
+           2.Set
+           3.Tuple
+           4.Dictionary
